@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AnyiLSPDPoliceProfiles version="3.0">
+  <Profile id="LSPD" department="Los Santos Police Department">
+    <OfficerModel>s_m_y_cop_01</OfficerModel>
+    <VehicleModel>police</VehicleModel>
+    <TransportVehicleModel>fbi2</TransportVehicleModel>
+    <StationId>MissionRow</StationId>
+    <EmergencyLights>true</EmergencyLights>
+    <NativeSiren>true</NativeSiren>
+    <RadioStation>RADIO_01_CLASS_ROCK</RadioStation>
+    <Description>Primary LSPD Story Mode authority profile.</Description>
+  </Profile>
+  <Profile id="LSSD" department="Los Santos County Sheriff">
+    <OfficerModel>s_m_y_sheriff_01</OfficerModel>
+    <VehicleModel>sheriff</VehicleModel>
+    <TransportVehicleModel>fbi2</TransportVehicleModel>
+    <StationId>SandyShores</StationId>
+    <EmergencyLights>true</EmergencyLights>
+    <NativeSiren>true</NativeSiren>
+    <RadioStation>RADIO_03_HIPHOP_NEW</RadioStation>
+    <Description>Sheriff patrol profile for county stations.</Description>
+  </Profile>
+  <Profile id="NOOSE" department="NOOSE">
+    <OfficerModel>s_m_y_swat_01</OfficerModel>
+    <VehicleModel>police3</VehicleModel>
+    <TransportVehicleModel>fbi2</TransportVehicleModel>
+    <StationId>MissionRow</StationId>
+    <EmergencyLights>true</EmergencyLights>
+    <NativeSiren>true</NativeSiren>
+    <RadioStation>RADIO_01_CLASS_ROCK</RadioStation>
+    <Description>High-risk tactical authority profile. This version does not spawn military assets.</Description>
+  </Profile>
+  <Profile id="FIB" department="Federal Investigation Bureau">
+    <OfficerModel>s_m_m_fibsec_01</OfficerModel>
+    <VehicleModel>fbi</VehicleModel>
+    <TransportVehicleModel>fbi2</TransportVehicleModel>
+    <StationId>MissionRow</StationId>
+    <EmergencyLights>true</EmergencyLights>
+    <NativeSiren>true</NativeSiren>
+    <RadioStation>RADIO_01_CLASS_ROCK</RadioStation>
+    <Description>Federal investigative response profile.</Description>
+  </Profile>
+  <Profile id="LSPD Anyi" department="Los Santos Police Department">
+    <OfficerModel>venti</OfficerModel>
+    <VehicleModel>polignus</VehicleModel>
+    <TransportVehicleModel>fbi2</TransportVehicleModel>
+    <StationId>MissionRow</StationId>
+    <EmergencyLights>false</EmergencyLights>
+    <NativeSiren>false</NativeSiren>
+    <RadioStation>RADIO_01_CLASS_ROCK</RadioStation>
+    <Description>Anyiii LSPD Pursuit Profile. Native siren intentionally disabled to prevent the known hollow red visual artifact.</Description>
+  </Profile>
+</AnyiLSPDPoliceProfiles>

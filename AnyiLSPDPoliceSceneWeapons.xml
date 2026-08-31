@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AnyiLSPDPoliceSceneWeapons version="1.0">
+  <Weapon category="Low" name="Pistol" hash="0x1B06D571" ammo="90" />
+  <Weapon category="Medium" name="SMG" hash="0x2BE6766B" ammo="150" />
+  <Weapon category="High" name="Carbine Rifle" hash="0x83BF0278" ammo="180" />
+  <Weapon category="Ambush" name="Heavy Pistol" hash="0xD205520E" ammo="120" />
+  <Weapon category="Melee" name="Knife" hash="0x99B507EA" ammo="1" />
+</AnyiLSPDPoliceSceneWeapons>

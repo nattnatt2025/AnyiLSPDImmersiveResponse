@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LspdCitizenProfile version="1.1" enabled="true">
+  <Performance coreTickMs="250" roleRefreshMs="1500" stateScanMs="750" nearbyPedScanMs="1500" policeReactionMs="1800" configReloadSeconds="10" gangDataRefreshSeconds="30" heartbeatSeconds="30" />
+  <Investigation enabled="true" mildWantedMaximum="2" continuousChaosWantedLevel="3" aggressionMemorySeconds="8" assuranceSeconds="22" assuranceDismissalSeconds="4" />
+  <Protection threatRadius="45" policeAssistRadius="90" threatMemorySeconds="14" spawnSupportOfficer="true" supportOfficerModel="s_m_y_cop_01" supportSpawnDistance="58" supportUnitCount="3" supportOfficerHealth="500" supportOfficerArmor="200" supportOfficerAccuracy="100" supportOfficerWeapon="HeavyRifle" supportUnitCooldownSeconds="30" supportUnitLifetimeSeconds="30" />
+  <CitizenBehavior recklessImpactSpeed="20" />
+  <GangData root="C:\Users\Nataniel\STEAM\steamapps\common\Grand Theft Auto V Enhanced\gangModData" />
+</LspdCitizenProfile>

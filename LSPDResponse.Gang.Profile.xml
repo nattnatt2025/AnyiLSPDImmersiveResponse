@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LSPDResponseGangProfile version="2.0">
+  <Enabled>true</Enabled>
+  <Role>GangTurfLeader</Role>
+  <PedInput>true</PedInput>
+  <VehicleInput>true</VehicleInput>
+  <AcceptNumericHashes>true</AcceptNumericHashes>
+  <ReadOnlyGangData>true</ReadOnlyGangData>
+
+  <!--
+    These are the seven Anyi addon ped hashes already used by the project.
+    Numeric hashes are retained exactly as supplied by the existing project.
+  -->
+  <PedPresets>
+    <Ped name="Shenhe" model="343272203" />
+    <Ped name="Raiden" model="1957851257" />
+    <Ped name="Navia" model="-314526266" />
+    <Ped name="Clorinde" model="834197053" />
+    <Ped name="Nefer" model="-1205420430" />
+    <Ped name="Arlecchino" model="1823612999" />
+    <Ped name="Venti" model="-514572009" />
+  </PedPresets>
+
+  <VehiclePresets>
+    <Vehicle name="Buffalo" model="buffalo" />
+    <Vehicle name="Sultan" model="sultan" />
+    <Vehicle name="Granger" model="granger" />
+    <Vehicle name="Baller" model="baller" />
+    <Vehicle name="Dubsta" model="dubsta" />
+    <Vehicle name="Schafter" model="schafter2" />
+    <Vehicle name="Kuruma" model="kuruma" />
+  </VehiclePresets>
+</LSPDResponseGangProfile>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LspdGangProfile version="1.0" enabled="true">
+  <!--
+    ANYI GANG TURF LEADER PROFILE
+    Gang & Turf XML is read-only.
+    Three hardened support members are maintained during active conflict.
+  -->
+  <Performance
+      coreTickMs="300"
+      stateScanMs="1000"
+      nearbyScanMs="1800"
+      policeReactionMs="2500"
+      dataRefreshSeconds="30" />
+
+  <GangBehavior
+      aggressionMemorySeconds="8"
+      lowWantedMaximum="2"
+      policeWaryRadius="100"
+      territoryWaryRadius="50"
+      gangInteractionRadius="35"
+      gangProtectionRadius="100"
+      enemyDetectionRadius="85"
+      citizenWaryRadius="35"
+      maxProtectorsPerThreat="3"
+      gangTasksPerScan="3"
+      policeTasksPerScan="2"
+      taskCooldownSeconds="8"
+      calmDeescalationCooldownSeconds="7"
+      enablePoliceWary="true"
+      enableGangProtection="true"
+      enableCitizenWary="false"
+      enableMilitaryResponse="false"
+      preferredTurfName="Davis"
+      preferredPlayerGangName="Anyiii's Gang"
+      defaultTurfRadius="180"
+      pursuitBreakDistance="100"
+      pursuitBreakDelaySeconds="6"
+      keepPoliceNeutralDuringGangConflict="true"
+      policeMayTargetLeaderAfterPersonalAggression="true" />
+
+  <Data
+      readOnly="true"
+      gangRoot="C:\Users\Nataniel\STEAM\steamapps\common\Grand Theft Auto V Enhanced\gangModData" />
+</LspdGangProfile>

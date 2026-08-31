@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AnyiLSPDPoliceEvents version="3.0">
+  <Event type="RecklessDriver" severity="2" title="Reckless Driver" audio="REQUEST_BACKUP" keywords="reckless,speeding,driver" />
+  <Event type="VehiclePursuit" severity="3" title="Vehicle Pursuit" audio="REQUEST_BACKUP" keywords="pursuit,chase,vehicle" />
+  <Event type="PedestrianPursuit" severity="2" title="Suspect Fleeing On Foot" audio="REPORT_SUSPECT_IS_ON_FOOT" keywords="flee,foot,pursuit" />
+  <Event type="Kidnapping" severity="4" title="Possible Kidnapping" audio="REQUEST_BACKUP" keywords="kidnap,hostage" />
+  <Event type="StoreRobbery" severity="3" title="Store Robbery" audio="REQUEST_BACKUP" keywords="store,robbery,shop" />
+  <Event type="BankHeist" severity="5" title="Bank Robbery" audio="CRIME_SHOTS_FIRED" keywords="bank,heist,robbery" />
+  <Event type="SuspiciousGangActivity" severity="2" title="Suspicious Gang Activity" audio="ATTENTION_ALL_UNITS" keywords="gang,meeting,activity" />
+  <Event type="GangAmbush" severity="4" title="Gang Ambush" audio="CRIME_SHOTS_FIRED" keywords="ambush,shootout,gang" />
+  <Event type="MassShootout" severity="5" title="Shots Fired" audio="CRIME_SHOTS_FIRED" keywords="shootout,shots,firefight" />
+  <Event type="PoliceAssistance" severity="3" title="Officer Assistance Required" audio="ASSISTANCE_REQUIRED" keywords="officer,assist,backup" />
+  <Event type="OfficerDistress" severity="4" title="Officer Distress" audio="ASSISTANCE_REQUIRED" keywords="distress,officer" />
+</AnyiLSPDPoliceEvents>

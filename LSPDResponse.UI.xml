@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LspdResponseUi version="1.0">
+  <Menu title="LSPD Response 1.0" subtitle="IMMERSIVE LSPD AUTHORITY" />
+  <Controls menuToggle="F5" />
+  <Role active="LosSantosCitizen" />
+  <CitizenProfile>
+    <!-- Visual menu preferences only. Citizen AI and police response are deliberately not active yet. -->
+    <GreetPolice visible="true" />
+    <InteractWithPolice visible="true" />
+    <MakeAssurance visible="true" />
+    <CallDispatch visible="true" />
+  </CitizenProfile>
+</LspdResponseUi>

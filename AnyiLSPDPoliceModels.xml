@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AnyiLSPDPoliceModels version="1.0">
+  <!-- Edit/add Model nodes. Favorites are stored separately in AnyiLSPDPolice.ini. -->
+  <OfficerModels>
+    <Model id="LSPD" displayName="LSPD Officer" model="s_m_y_cop_01" hash="0x5E3DA4A4" />
+    <Model id="LSPD_Female" displayName="LSPD Female Officer" model="s_f_y_cop_01" hash="0x15F8700D" />
+    <Model id="FIB" displayName="FIB Agent" model="s_m_m_fiboffice_01" hash="0xEDBC7546" />
+    <Model id="CIA" displayName="CIA Security" model="s_m_m_ciasec_01" hash="0x625D6958" />
+    <Model id="US_Marine" displayName="US Marine" model="s_m_y_marine_01" hash="0x65793043" />
+    <Model id="LSPD Custom" displayName="Venti" model="venti" hash="514572009" />
+  </OfficerModels>
+  <VehicleModels>
+    <Model id="Police" displayName="Police Cruiser" model="police" hash="0x79FBB0C5" />
+    <Model id="Police2" displayName="Police Cruiser 2" model="police2" hash="0x9F05F101" />
+    <Model id="Police3" displayName="Police Cruiser 3" model="police3" hash="0x71FA16EA" />
+    <Model id="FBI" displayName="FIB Vehicle" model="fbi" hash="0x432EA949" />
+    <Model id="Riot" displayName="Riot / SWAT Truck" model="riot" hash="0xB822A1AA" />
+  </VehicleModels>
+</AnyiLSPDPoliceModels>

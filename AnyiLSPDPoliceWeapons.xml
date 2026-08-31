@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AnyiLSPDPoliceWeapons version="1.0" source="Anyi Weapon Loadout">
+  <Weapon id="CarbineRifle" displayName="Carbine Rifle" hash="0x83BF0278" tint="2" ammo="240">
+    <Components><Component hash="0xBA62E935" /><Component hash="0xA0D89C42" /><Component hash="0x837445AA" /><Component hash="0x0C164F53" /><Component hash="0x7BC4CDDC" /><Component hash="0xD89B9658" /></Components>
+  </Weapon>
+  <Weapon id="CombatMG" displayName="Combat MG" hash="0x7FD62962" tint="0" ammo="300">
+    <Components><Component hash="0xD6C59CD6" /><Component hash="0xA0D89C42" /><Component hash="0x0C164F53" /><Component hash="0x92FECCDD" /></Components>
+  </Weapon>
+  <Weapon id="HeavyPistol" displayName="Heavy Pistol" hash="0xD205520E" tint="7" ammo="120">
+    <Components><Component hash="0x64F9C62B" /><Component hash="0xC304849A" /><Component hash="0x359B7AAE" /><Component hash="0x7A6A7B7B" /></Components>
+  </Weapon>
+  <Weapon id="PumpShotgun" displayName="Pump Shotgun" hash="0x1D073A89" tint="0" ammo="120">
+    <Components><Component hash="0xE608B35E" /><Component hash="0x7BC4CDDC" /><Component hash="0x13B9376B" /></Components>
+  </Weapon>
+  <Weapon id="HeavySniper" displayName="Heavy Sniper" hash="0x0C472FE2" tint="0" ammo="60">
+    <Components><Component hash="0xD2443DDC" /></Components>
+  </Weapon>
+</AnyiLSPDPoliceWeapons>
